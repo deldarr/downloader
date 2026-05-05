@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [metasploitable-linux-2.0.0](https://github.com/deldarr/downloader/tree/main/downloads/metasploitable-linux-2.0.0)
+
+---
